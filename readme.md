@@ -17,28 +17,3 @@
 
 </div>
 
----
-
-### ✦ trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=EvaLiisaAibast&theme=discord&no-frame=false&column=6&margin-w=8" />
-
-</div>
-
----
-
-### ✦ activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EvaLiisaAibast&theme=tokyo-night&bg_color=0d0015&color=90F3E1&line=4D23CD&point=EFCFEF&hide_border=false&border_color=4D23CD&area=true&area_color=4D23CD" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-<sub>✦ · · · operating outside normal abstraction layers · · · ✦</sub>
-</div>
