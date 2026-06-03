@@ -1,24 +1,14 @@
 <div align="center">
 
-## ⚡ Eva‑Liisa Aibast  
-### **Assembly‑first dev • Chaos systems engineer • Cyberpunk UI enjoyer**
-
-**“I don’t write software — I pressure reality until it compiles.”**
+## 💜 Eva‑Liisa Aibast  
+**Full‑stack chaos engineer • Game dev • Assembly enjoyer**
 
 ---
 
-### 🟣 System Status
+### 📊 Stats
 
-**Languages:** x86‑64 • JavaScript • Python • C#  
-**Domains:** real‑time engines • multiplayer backends • Electron terminals  
-**Specialties:** cursed UI • cyberpunk interfaces • game logic • simulations
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=EvaLiisaAibast&show_icons=true&theme=midnight-purple&hide_border=true" />
 
----
-
-### 🟪 Activity
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=EvaLiisaAibast&show_icons=true&theme=midnight-purple&hide_border=true" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=EvaLiisaAibast&theme=midnight-purple&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvaLiisaAibast&layout=compact&theme=midnight-purple&hide_border=true" />
 
 </div>
